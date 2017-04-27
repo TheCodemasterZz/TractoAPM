@@ -5,7 +5,7 @@ VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApplication1", "ConsoleApplication1\ConsoleApplication1.csproj", "{E3F9B5FA-2CF1-42DB-821D-5521301855C4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tracto.Apm", "Tracto.Apm\Tracto.Apm.csproj", "{D83677E5-06AD-47ED-A22D-802682397DF8}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tracto.Apm", "Tracto.Apm\Tracto.Apm.csproj", "{CBE6550B-4503-43AA-BC3E-9E46ABA6293B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -17,10 +17,10 @@ Global
 		{E3F9B5FA-2CF1-42DB-821D-5521301855C4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E3F9B5FA-2CF1-42DB-821D-5521301855C4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E3F9B5FA-2CF1-42DB-821D-5521301855C4}.Release|Any CPU.Build.0 = Release|Any CPU
-		{D83677E5-06AD-47ED-A22D-802682397DF8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{D83677E5-06AD-47ED-A22D-802682397DF8}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{D83677E5-06AD-47ED-A22D-802682397DF8}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{D83677E5-06AD-47ED-A22D-802682397DF8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CBE6550B-4503-43AA-BC3E-9E46ABA6293B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CBE6550B-4503-43AA-BC3E-9E46ABA6293B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CBE6550B-4503-43AA-BC3E-9E46ABA6293B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CBE6550B-4503-43AA-BC3E-9E46ABA6293B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
